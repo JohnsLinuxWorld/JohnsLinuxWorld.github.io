@@ -1,2 +1,0 @@
-ABOUT JOHNS LINUX WORLD <br>This is the repo for John Jensen of Johns Linux World please check back frequently as the repo will be updated frequentlyPlease bookmark [JohnsLinuxWorld.github.io/](https://johnslinuxworld.github.io/)
-<hr><BR> ABOUT JOHN JENSEN<BR> I am John Jensen the owner of Johns Linux World, I have been into Linux off and on since 2019 but have gone full time on a Dell OptiPlex 7010 i5
